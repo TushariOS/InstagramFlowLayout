@@ -11,6 +11,7 @@
 		78B89B6D29E5BFE000165F73 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B89B6C29E5BFE000165F73 /* ContentView.swift */; };
 		78B89B6F29E5BFE100165F73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78B89B6E29E5BFE100165F73 /* Assets.xcassets */; };
 		78B89B7229E5BFE100165F73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78B89B7129E5BFE100165F73 /* Preview Assets.xcassets */; };
+		78B89B7B29E686B400165F73 /* SecondContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B89B7A29E686B400165F73 /* SecondContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		78B89B6C29E5BFE000165F73 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		78B89B6E29E5BFE100165F73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78B89B7129E5BFE100165F73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		78B89B7A29E686B400165F73 /* SecondContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				78B89B6A29E5BFE000165F73 /* CompositionalLayoutWithSwiftUIApp.swift */,
 				78B89B6C29E5BFE000165F73 /* ContentView.swift */,
+				78B89B7A29E686B400165F73 /* SecondContentView.swift */,
 				78B89B6E29E5BFE100165F73 /* Assets.xcassets */,
 				78B89B7029E5BFE100165F73 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78B89B6D29E5BFE000165F73 /* ContentView.swift in Sources */,
+				78B89B7B29E686B400165F73 /* SecondContentView.swift in Sources */,
 				78B89B6B29E5BFE000165F73 /* CompositionalLayoutWithSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
